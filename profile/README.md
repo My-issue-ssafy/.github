@@ -12,7 +12,7 @@
 ### 백엔드
 | | 김진현 | 홍시은 |
 |-----------|:------------------------:|:---------------------------:|
-| **프로필** | <img src="https://lab.ssafy.com/-/project/1050572/uploads/3f066ca3ce6d1468d850893e754de593/image.png" width="150"/> | <img src="https://avatars.githubusercontent.com/u/63907578?v=4" width="150"/> |
+| **프로필** | <img src="https://avatars.githubusercontent.com/u/113009472?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/63907578?v=4" width="150"/> |
 | **기술 스택** | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" /> |
 | **R&R** | 챗봇 서버 개발 <br> 네컷 뉴스 서버 개발 <br> 뉴스 서버 개발 | CI/CD 파이프라인 구현 <br> 팟캐스트 서버 개발 <br> 알림 서버 개발 |
 
