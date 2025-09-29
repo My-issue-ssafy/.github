@@ -45,7 +45,7 @@
 
 | **네컷뉴스** | **팟캐스트** | **홈 화면(추천)** |
 |:--:|:--:|:--:|
-| ![Image](/profile/네컷뉴스.gif) | ![Image](/profile/팟캐스트.gif) | ![Image](/profile/홈(추천).gif) | 
+| <img src="/profile/네컷뉴스.gif" width="250"/> | <img src="/profile/팟캐스트.gif" width="250"/> | <img src="/profile/홈(추천).gif" width="250"/> |
 
 
 ## 시스템 아키텍처
