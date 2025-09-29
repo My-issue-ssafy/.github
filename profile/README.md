@@ -42,11 +42,11 @@
 - 🔎 **HOT & 최신 뉴스**: 실시간 트렌드 반영 및 최신 소식 빠른 제공
 
 ## 화면 구성
+## 화면 구성 
 
 | **네컷뉴스** | **팟캐스트** | **홈 화면(추천)** |
 |:--:|:--:|:--:|
-| <img src="/profile/네컷뉴스.gif" width="250"/> | <img src="/profile/팟캐스트.gif" width="250"/> | <img src="/profile/홈(추천).gif" width="250"/> |
-
+| ![Image](/profile/네컷뉴스.gif) | ![Image](/profile/팟캐스트.gif) | ![Image](/profile/홈(추천).gif) |
 
 ## 시스템 아키텍처
 ![Iamge](/profile/시스템아키텍처.png)
