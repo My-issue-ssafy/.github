@@ -19,7 +19,7 @@
 ### AI*데이터 분석
 | | 이승훈 | 한동근 |
 |-----------|:------------------------:|:---------------------------:|
-| **프로필** | <img src="https://avatars.githubusercontent.com/u/113009472?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/128709695?v=4" width="150">
+| **프로필** | <img src="https://avatars.githubusercontent.com/u/113009472?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/128709695?v=4" width="150"/>
 | **기술 스택** | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" />  |
 | **R&R** | GA4, BigQuery 연결 <br> 데이터 EDA <br> 개인화 추천 알고리즘 | 뉴스 크롤링 자동화 <br> 뉴스 검색 ES 도입 <br> 비개인화 추천 알고리즘 |
 
