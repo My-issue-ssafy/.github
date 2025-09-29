@@ -1,4 +1,4 @@
-<img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/59775c74-b163-4ec2-ad02-afca6a79ea56" /># 마이슈
+# 마이슈
 > 바쁜 현대인들을 위한 숏 콘텐츠 기반 뉴스 플랫폼
 
 ## 개발자
@@ -19,7 +19,7 @@
 ### AI*데이터 분석
 | | 이승훈 | 한동근 |
 |-----------|:------------------------:|:---------------------------:|
-| **프로필** | <img src="https://avatars.githubusercontent.com/u/113009472?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/128709695?v=4" width="150"/>
+| **프로필** | <img width="130" height="130" alt="image" src="https://avatars.githubusercontent.com/u/65535314?v=4" /> | <img src="https://avatars.githubusercontent.com/u/128709695?v=4" width="150"/>
 | **기술 스택** | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" />  |
 | **R&R** | GA4, BigQuery 연결 <br> 데이터 EDA <br> 개인화 추천 알고리즘 | 뉴스 크롤링 자동화 <br> 뉴스 검색 ES 도입 <br> 비개인화 추천 알고리즘 |
 
