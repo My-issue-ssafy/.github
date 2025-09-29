@@ -45,7 +45,7 @@
 
 | **네컷뉴스** | **팟캐스트** | **홈 화면(추천)** |
 |:--:|:--:|:--:|
-| ![Image](https://lab.ssafy.com/-/project/1120578/uploads/f807a9bfac7aecaa55a2e809e218749c/%EB%84%A4%EC%BB%B7%EB%89%B4%EC%8A%A4.gif) | ![Image](/uploads/ef9dd2c9c70cb31f68891aef7f8d3617/팟캐스트.gif) | ![Image](/uploads/24163196d4f57974d1756a574017b7b2/홈_추천_.gif) | 
+| ![Image](profile/네컷뉴스.gif) | ![Image](/uploads/ef9dd2c9c70cb31f68891aef7f8d3617/팟캐스트.gif) | ![Image](/uploads/24163196d4f57974d1756a574017b7b2/홈_추천_.gif) | 
 
 ## 시스템 아키텍처
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/128709695/495046183-848425ff-9b2e-4f65-a99b-38d709be275e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250929T073946Z&X-Amz-Expires=300&X-Amz-Signature=23a0fdb8f338239b9f1bcbbfa48e7119ac1bfe03529e111a68ba44c007dd1bf8&X-Amz-SignedHeaders=host" width="1000"/>
