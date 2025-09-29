@@ -3,21 +3,21 @@
 
 ## 개발자
 ### 모바일(안드로이드)
-| | 박승준 | 윤석찬 |
+| | [박승준](https://github.com/ootr47) | [윤석찬](https://github.com/alsdal) |
 |-----------|:------------------------:|:---------------------------:|
 | **프로필** | <img src="https://avatars.githubusercontent.com/u/83055885?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/52294696?v=4" width="150"/> |
 | **기술 스택** | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40"/>|
 | **R&R** | 팟캐스트 개발 <br> 네컷뉴스 개발 <br> 마이페이지 개발 <br> 챗봇 ui 개발 | 뉴스 메인 화면 구현 <br> 뉴스 검색 개발 <br> 뉴스 알림 개발 |
 
 ### 백엔드
-| | 김진현 | 홍시은 |
+| | [김진현](https://github.com/jinhyun-kimm) | [홍시은](https://github.com/XIOZ119) |
 |-----------|:------------------------:|:---------------------------:|
 | **프로필** | <img src="https://avatars.githubusercontent.com/u/113009472?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/63907578?v=4" width="150"/> |
 | **기술 스택** | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" /> |
 | **R&R** | 챗봇 서버 개발 <br> 네컷 뉴스 서버 개발 <br> 뉴스 서버 개발 | CI/CD 파이프라인 구현 <br> 팟캐스트 서버 개발 <br> 알림 서버 개발 |
 
 ### AI*데이터 분석
-| | 이승훈 | 한동근 |
+| | [이승훈](https://github.com/tmdgnsle) | [한동근](https://github.com/l0o0lv) |
 |-----------|:------------------------:|:---------------------------:|
 | **프로필** | <img width="130" height="130" alt="image" src="https://avatars.githubusercontent.com/u/65535314?v=4" /> | <img src="https://avatars.githubusercontent.com/u/128709695?v=4" width="150"/>
 | **기술 스택** | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" />  |
