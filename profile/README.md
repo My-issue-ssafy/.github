@@ -49,7 +49,7 @@
 
 
 ## 시스템 아키텍처
-![Iamge](/profile/팟캐스트.gif)
+![Iamge](/profile/시스템아키텍처.png)
 
 ### Environment
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
