@@ -44,11 +44,7 @@
 ## 화면 구성
 
 | **네컷뉴스** | **팟캐스트** | **홈 화면(추천)** |
-|:--:|:--:|:--:|
-| ![Image](/profile/네컷뉴스.gif) | ![Image](/profile/팟캐스트.gif) | ![Image](/profile/홈(추천).gif) | 
-
-## 시스템 아키텍처
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/128709695/495046183-848425ff-9b2e-4f65-a99b-38d709be275e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250929T073946Z&X-Amz-Expires=300&X-Amz-Signature=23a0fdb8f338239b9f1bcbbfa48e7119ac1bfe03529e111a68ba44c007dd1bf8&X-Amz-SignedHeaders=host" width="1000"/>
+|:--:|:--:|:--:|처.gif" width="1000"/>
 
 ### Environment
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
